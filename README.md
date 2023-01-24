@@ -1,2 +1,5 @@
 # so_long
-This project is a very small 2D game
+
+A small 2d game, created in C, using MinilibX (a simple X-Window (X11R6) programming API in C)
+
+### _Still in development_
